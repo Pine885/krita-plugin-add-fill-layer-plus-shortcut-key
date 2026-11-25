@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=fill_layer_plus
+X-Python-2-Compatible=false
+Name=Fill Layer Plus
+Comment=Create a foreground color fill layer above the active layer without opening a dialog.

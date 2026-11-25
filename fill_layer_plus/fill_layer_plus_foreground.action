@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Fill Layer Plus">
+    <Actions category="Fill Layer Plus">
+        <text>Fill Layer Plus</text>
+
+        <Action name="fill_layer_plus_foreground">
+            <icon></icon>
+            <text>Fill Layer with Foreground Color</text>
+            <whatsThis>Creates a color fill layer using the current foreground color above the active layer without opening a dialog.</whatsThis>
+            <toolTip>Create a foreground color fill layer</toolTip>
+            <iconText>Fill Layer with Foreground Color</iconText>
+            <activationFlags>1000</activationFlags>
+            <activationConditions>0</activationConditions>
+            <shortcut></shortcut>
+            <isCheckable>false</isCheckable>
+            <statusTip>Create a foreground color fill layer above the active layer.</statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>
