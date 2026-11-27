@@ -13,6 +13,3 @@ foreground color without opening the Fill Layer dialog.
    **Fill Layer Plus**, and click **OK**.
 5. Restart Krita again.
 
-## Note
-
-I know that there is a smarter way of coding a filled layer, this is just a template for adding a new layer.
